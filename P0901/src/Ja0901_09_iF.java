@@ -10,19 +10,9 @@ public class Ja0901_09_iF {
 		
 		
 		
-		
-		
 	}
 		
-
-		
-		
-
-		
-		
-		
-		
-		
+	
 		
 //		//if~else문 사용
 //		System.out.println("점수를 입력하세요 : ");
@@ -41,10 +31,6 @@ public class Ja0901_09_iF {
 //		}else { //1줄 일때 중괄호 생략가능
 //			System.out.println("불합격");
 //		}
-		
-		
-		
-		
 		
 		
 		
