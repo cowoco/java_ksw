@@ -18,6 +18,7 @@ public class Ja0831_07 {
 		
 		
 		
+		
 		System.out.println(10/3.0F);
 		//실수형 값 %f , 정수형 값 %d , 문자열값 %s
 		System.out.printf("%.1f \n", 10/3.0); // \n: 줄바꿈 \t: 사이띄움
