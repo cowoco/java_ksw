@@ -8,6 +8,7 @@ public class Ja0901_03 {
 //		long c = (long) a * b;
 //		System.out.printf("%,d",c);
 
+		
 		char c1 = 'a';
 		System.out.println(c1);
 		char c2 = 97;
